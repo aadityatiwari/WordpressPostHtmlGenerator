@@ -1,0 +1,14 @@
+FB_ROOT_TEXT=<div id="fb-root"></div>\n<script type="text/javascript">// <![CDATA[\n(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));\n// ]]></script>
+TOTAL_SONGS=10
+POST_IMAGE_DIR_URL=http://www.aadityatiwari.com/wp-content/uploads/2013/06/bob_dylan_post/
+BAND_NAME=Bob Dylan
+SONG_ALBUM_YEAR_1=Like a rolling stone#Highway 61 Revisited#1965
+SONG_ALBUM_YEAR_2=Blowin' in the wind#The Freewheelin' Bob Dylan#1963
+SONG_ALBUM_YEAR_3=Positively 4th street#Single#1965
+SONG_ALBUM_YEAR_4=The times they are a-changin#The Times They Are a-Changin#1964
+SONG_ALBUM_YEAR_5=Mr. tambourine man#Bringing It All Back Home#1965
+SONG_ALBUM_YEAR_6=Just Like a woman#Blonde on Blonde#1966
+SONG_ALBUM_YEAR_7=Don't think twice, it's alright#The Freewheelin' Bob Dylan#1963
+SONG_ALBUM_YEAR_8=I'll keep It with mine#Blonde on Blonde#1966
+SONG_ALBUM_YEAR_9=Tombstone blues#Highway 61 Revisited#1965
+SONG_ALBUM_YEAR_10=Subterranean homesick blues#Bringing It All Back Home#1965

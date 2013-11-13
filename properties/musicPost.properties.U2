@@ -1,0 +1,24 @@
+FB_ROOT_TEXT=<div id="fb-root"></div>\n<script type="text/javascript">// <![CDATA[\n(function(d, s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id)) return;\n  js = d.createElement(s); js.id = id;\n  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";\n  fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));\n// ]]></script>
+TOTAL_SONGS=20
+POST_IMAGE_DIR_URL=http://www.aadityatiwari.com//wp-content/uploads/2013/06/U2_post/
+BAND_NAME=U2
+SONG_ALBUM_YEAR_1=One#Achtung baby#1991
+SONG_ALBUM_YEAR_2=Beautiful day#All that you can't leave behind#2000
+SONG_ALBUM_YEAR_3=With or without you#The Joshua Tree#1987
+SONG_ALBUM_YEAR_4=One tree hill#The Joshua Tree#1987
+SONG_ALBUM_YEAR_5=Mysterious ways#Achtung baby#1991
+SONG_ALBUM_YEAR_6=City of blinding lights#How to dismantle an atomic bomb#2004
+SONG_ALBUM_YEAR_7=Pride (in the name of love)#The unforgettable fire#1984
+SONG_ALBUM_YEAR_8=Bad#The unforgettable fire#1984
+SONG_ALBUM_YEAR_9=Even better than the real thing#Achtung baby#1991
+SONG_ALBUM_YEAR_10=I still haven't found what I'm looking for#The Joshua Tree#1987
+SONG_ALBUM_YEAR_11=Sunday bloody sunday#War#1983
+SONG_ALBUM_YEAR_12=Vertigo#How to dismantle an atomic bomb#2004
+SONG_ALBUM_YEAR_13=Gloria#October#1981
+SONG_ALBUM_YEAR_14=Bullet the blue sky#The Joshua Tree#1987
+SONG_ALBUM_YEAR_15=The first time#Zooropa#1993
+SONG_ALBUM_YEAR_16=Where the streets have no name#The Joshua Tree#1987
+SONG_ALBUM_YEAR_17=Angel of harlem#Rattle and Hum#1988
+SONG_ALBUM_YEAR_18=Scarlet#October#1981
+SONG_ALBUM_YEAR_19=I will follow#Boy#1980
+SONG_ALBUM_YEAR_20=Tomorrow#October#1981
